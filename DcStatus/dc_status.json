@@ -1,0 +1,42 @@
+{
+    "status": [
+        {
+            "dc_id": 1,
+            "ping": 109,
+            "dc_status": 1,
+            "last_down": 1682939640,
+            "last_lag": 1681829040
+        },
+        {
+            "dc_id": 2,
+            "ping": 10,
+            "dc_status": 1,
+            "last_down": 1682034600,
+            "last_lag": 1678143240
+        },
+        {
+            "dc_id": 3,
+            "ping": 117,
+            "dc_status": 1,
+            "last_down": 1682922480,
+            "last_lag": 1678247940
+        },
+        {
+            "dc_id": 4,
+            "ping": 16,
+            "dc_status": 1,
+            "last_down": 1678142760,
+            "last_lag": 1678143240
+        },
+        {
+            "dc_id": 5,
+            "ping": 250,
+            "dc_status": 1,
+            "last_down": 1682500980,
+            "last_lag": 1682606100
+        }
+    ],
+    "last_refresh": 1682965080,
+    "refresh_in_time": 21,
+    "is_refreshing": false
+}
