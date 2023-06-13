@@ -2,9 +2,9 @@
     "status": [
         {
             "dc_id": 1,
-            "ping": 109,
+            "ping": 1221,
             "dc_status": 1,
-            "last_down": 1682939640,
+            "last_down": 1682939631,
             "last_lag": 1681829040
         },
         {
