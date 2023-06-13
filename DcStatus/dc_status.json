@@ -10,14 +10,14 @@
         {
             "dc_id": 2,
             "ping": 10,
-            "dc_status": 1,
+            "dc_status": 2,
             "last_down": 1682034600,
             "last_lag": 1678143240
         },
         {
             "dc_id": 3,
             "ping": 117,
-            "dc_status": 1,
+            "dc_status": 0,
             "last_down": 1682922480,
             "last_lag": 1678247940
         },
