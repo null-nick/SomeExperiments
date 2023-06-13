@@ -9,7 +9,7 @@
         },
         {
             "dc_id": 2,
-            "ping": 10,
+            "ping": 1210,
             "dc_status": 2,
             "last_down": 1682034600,
             "last_lag": 1678143240
